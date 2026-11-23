@@ -19,6 +19,8 @@ M2 Perception Artificielle et Robotique, Université Clermont Auvergne. Based in
 
 #### Tools I use
 
-**Robotics:** ROS 2 · Nav2 · MoveIt · Gazebo · Isaac Sim · LeRobot
-**AI / ML:** PyTorch · VLA models (SmolVLA, TinyVLA) · reinforcement learning · computer vision
-**Code:** Python · C++ · JavaScript / TypeScript · React · Three.js · Node.js · Linux
+**Robotics:** ROS / ROS 2 · Nav2 · MoveIt · PX4 · Gazebo · Isaac Sim · Webots · URDF
+**AI & vision:** PyTorch · OpenCV · YOLO · PointNet · SmolVLA · Stable-Baselines3 (SAC / PPO)
+**Control:** MPC · PID · Kalman filters · path planning · inverse kinematics
+**Code:** Python · C/C++ · JavaScript · React · Three.js · Docker · Linux
+**CAD:** SolidWorks · Catia · 3D printing
